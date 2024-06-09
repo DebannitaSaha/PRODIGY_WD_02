@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-Tic-Tac-Toe game 
+Stop watch web application
